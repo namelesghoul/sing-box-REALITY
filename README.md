@@ -1,4 +1,4 @@
-# sing-box-REALITY
+# Discountinued . find the latest versions in my other repo : https://github.com/deathline94/sing-REALITY-Box
 
 A One-click installer script for REALITY on the sing-box core
 
